@@ -15,3 +15,6 @@ Video link: https://drive.google.com/file/d/1XXlBqH6aF5ZRQM9MCz83NpGfCwtMvQFe/vi
 
 Video link: https://drive.google.com/file/d/1LikUb86L66A0PgZqIUi97nvn-T_et2CR/view?usp=sharing
 
+### More ETW patches:
+1. https://modexp.wordpress.com/2020/04/08/red-teams-etw/
+2. 
