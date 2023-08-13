@@ -17,4 +17,4 @@ Video link: https://drive.google.com/file/d/1LikUb86L66A0PgZqIUi97nvn-T_et2CR/vi
 
 ### More ETW patches:
 1. https://modexp.wordpress.com/2020/04/08/red-teams-etw/
-2. 
+2. TamperETW: https://github.com/outflanknl/TamperETW/
